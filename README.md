@@ -1,3 +1,18 @@
-**Customer Support Response Analysis on Twitter**
+# Customer Support Response Analysis
 
-This project analyzes customer support interactions on Twitter using a public dataset. It explores patterns in customer messages, company responses, and response times. The work includes data cleaning, feature preparation, sentiment scoring, and basic machine learning models to understand how message sentiment relates to response behavior. The project provides a simple overview of how customer communication patterns can be studied using data and classification methods.
+This project examines customer support interactions on Twitter using a public dataset. It includes data cleaning, feature preparation, sentiment scoring, and simple machine learning models to study response patterns. The project provides a general overview of how customer communication can be analyzed using data and classification methods.
+
+## Key Steps
+- Data cleaning and preparation
+- Feature creation (sentiment score, response duration)
+- Basic model evaluation
+- Simple interpretation of response patterns
+
+## Tools Used
+Python
+Pandas
+Scikit-learn
+VADER Sentiment
+
+## Summary
+The project explores how sentiment relates to customer support response behavior.
